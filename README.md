@@ -9,5 +9,5 @@ Usage:
 
 ```bash
 $ bundle
-$ bundle exec --update-crontab
+$ bundle exec whenever --update-crontab
 ```
